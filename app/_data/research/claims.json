@@ -1,0 +1,2804 @@
+[
+  {
+    "id": "AB-001#0",
+    "type": "answerable",
+    "text": "The Aqua Book defines a role called commissioner.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-001#1",
+    "type": "answerable",
+    "text": "The Aqua Book defines a role called analyst.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-001#2",
+    "type": "answerable",
+    "text": "The Aqua Book defines a role called assurer.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-001#3",
+    "type": "answerable",
+    "text": "The Aqua Book defines a role called approver.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-002#0",
+    "type": "answerable",
+    "text": "The Aqua Book defines four roles: commissioner, analyst, assurer, and approver.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-002#1",
+    "type": "answerable",
+    "text": "In some cases, an individual may fulfill more than one of these roles except for the assurer and analyst roles which must be separate from each other in all cases.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "AB-002#2",
+    "type": "answerable",
+    "text": "The analyst and assurer roles must always be kept separate.",
+    "gold": "g",
+    "meta": false,
+    "says": "gygg"
+  },
+  {
+    "id": "AB-002#3",
+    "type": "answerable",
+    "text": "Other roles (commissioner, approver) may be combined with other roles but not with the analyst role.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gygg"
+  },
+  {
+    "id": "AB-003#0",
+    "type": "answerable",
+    "text": "The stages of the analytical lifecycle in the Aqua Book include Engagement and Scoping",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-003#1",
+    "type": "answerable",
+    "text": "The stages of the analytical lifecycle in the Aqua Book include Design",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-003#2",
+    "type": "answerable",
+    "text": "The stages of the analytical lifecycle in the Aqua Book include Analysis",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-003#3",
+    "type": "answerable",
+    "text": "The stages of the analytical lifecycle in the Aqua Book include Delivery and Communication",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-004#0",
+    "type": "answerable",
+    "text": "Quality analysis is defined as 'fit for the purpose it was commissioned to meet'.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-004#1",
+    "type": "answerable",
+    "text": "Quality analysis should be accurate.",
+    "gold": "g",
+    "meta": false,
+    "says": "gygy"
+  },
+  {
+    "id": "AB-004#2",
+    "type": "answerable",
+    "text": "Quality analysis should be appropriately assured.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "AB-004#3",
+    "type": "answerable",
+    "text": "Quality analysis should be evidenced.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-004#4",
+    "type": "answerable",
+    "text": "Quality analysis should be proportionate to its effect.",
+    "gold": "g",
+    "meta": false,
+    "says": "gygy"
+  },
+  {
+    "id": "AB-004#5",
+    "type": "answerable",
+    "text": "Quality analysis should be adequately communicated.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-004#6",
+    "type": "answerable",
+    "text": "Quality analysis should be documented.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-004#7",
+    "type": "answerable",
+    "text": "Quality analysis should be accepted by its commissioners.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-004#8",
+    "type": "answerable",
+    "text": "Quality assurance effort should be appropriate to the risk associated with the intended use of the analysis and the complexity of the analytical approach.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-005#0",
+    "type": "answerable",
+    "text": "'shall' in The Aqua Book denotes a requirement, which is mandatory.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-005#1",
+    "type": "answerable",
+    "text": "'should' in The Aqua Book denotes a recommendation to be met on a 'comply or explain' basis.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-005#2",
+    "type": "answerable",
+    "text": "'may' in The Aqua Book denotes approval and it's a good idea but not mandatory or advisory.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-006#0",
+    "type": "answerable",
+    "text": "Business critical analysis has a significant influence over finance and funding.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-006#1",
+    "type": "answerable",
+    "text": "Business critical analysis is necessary for achieving a departmental business plan.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-006#2",
+    "type": "answerable",
+    "text": "An error in business critical analysis could have significant reputational, economic or legal implications.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-006#3",
+    "type": "answerable",
+    "text": "Business criticality should be aligned with an organisation's own risk framework.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-006#4",
+    "type": "answerable",
+    "text": "Business critical models influence significant financial and funding decisions.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-006#5",
+    "type": "answerable",
+    "text": "Business critical models are necessary to achieve a departmental business plan.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-006#6",
+    "type": "answerable",
+    "text": "Errors in business critical models could lead to serious financial, legal or reputational damage.",
+    "gold": "g",
+    "meta": false,
+    "says": "ggyg"
+  },
+  {
+    "id": "AB-006#7",
+    "type": "answerable",
+    "text": "Business critical analysis has a significant impact on finance, operations, or decision-making processes.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "gggg"
+  },
+  {
+    "id": "AB-006#8",
+    "type": "answerable",
+    "text": "Errors in business critical analysis could have severe consequences.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "AB-007#0",
+    "type": "answerable",
+    "text": "Departments and arm's length bodies (ALBs) should publish a list of business critical models (BCM) at least annually.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-007#1",
+    "type": "answerable",
+    "text": "The BCM list must meet accessibility guidelines.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "gggg"
+  },
+  {
+    "id": "AB-007#2",
+    "type": "answerable",
+    "text": "A model is considered business critical if it influences significant financial or funding decisions, is necessary for achieving the departmental business plan, or an error could cause serious damage.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-007#3",
+    "type": "answerable",
+    "text": "ALBs are responsible for publishing their own BCM list unless otherwise agreed with the department.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-007#4",
+    "type": "answerable",
+    "text": "The ALB's accounting officer is accountable for ensuring publication of the BCM list.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-007#5",
+    "type": "answerable",
+    "text": "The sponsor department's accounting officer oversees the publication process.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-007#6",
+    "type": "answerable",
+    "text": "Departments may choose to make analysis or models open to the public.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-007#7",
+    "type": "answerable",
+    "text": "In some cases, it might not be appropriate to publish the work and summary information may be published instead.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "AB-008#0",
+    "type": "answerable",
+    "text": "An assumptions log records each assumption",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-008#1",
+    "type": "answerable",
+    "text": "An assumptions log includes a description of each assumption",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-008#2",
+    "type": "answerable",
+    "text": "An assumptions log includes the effect and reliability of each assumption",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-008#3",
+    "type": "answerable",
+    "text": "An assumptions log includes when each assumption was made",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-008#4",
+    "type": "answerable",
+    "text": "An assumptions log includes why each assumption was made",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-008#5",
+    "type": "answerable",
+    "text": "A decisions log should explain who made the decision and who signed it off",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-009#0",
+    "type": "answerable",
+    "text": "The output of the engagement and scoping stage is a specification document.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-009#1",
+    "type": "answerable",
+    "text": "This document should be signed off by the commissioner.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-009#2",
+    "type": "answerable",
+    "text": "The document might also be reviewed by the assurer.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-010#0",
+    "type": "answerable",
+    "text": "For a High assessed risk, new assurance measures must be considered to treat the likelihood of errors occurring.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-010#1",
+    "type": "answerable",
+    "text": "If treatment isn’t an option for a High assessed risk, consideration must be given to terminating or transferring the risk.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-010#2",
+    "type": "answerable",
+    "text": "If it remains necessary to tolerate a High assessed risk, the commissioner should be fully informed about this risk.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-002#0",
+    "type": "answerable",
+    "text": "The Social Time Preference Rate (STPR) is set at 3.50% in real terms for years 1 to 30.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-002#1",
+    "type": "answerable",
+    "text": "For years 31 to 75, the STPR decreases to 3.00%.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-002#2",
+    "type": "answerable",
+    "text": "From year 76 onwards, the STPR further decreases to 2.50%.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-002#3",
+    "type": "answerable",
+    "text": "The Social Time Preference Rate (STPR) changes over a long appraisal period by decreasing from 3.50% to 2.50%.",
+    "gold": "g",
+    "meta": false,
+    "says": "gyyg"
+  },
+  {
+    "id": "GB-003#0",
+    "type": "answerable",
+    "text": "The discount rate for health and life effects in a Green Book appraisal is 1.5%",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-003#1",
+    "type": "answerable",
+    "text": "The wealth effect component of the discount rate is excluded because welfare or utility from additional years of life will not decline as real incomes rise",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-003#2",
+    "type": "answerable",
+    "text": "This rate applies only to health and life effects",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-003#3",
+    "type": "answerable",
+    "text": "All other social costs and social benefits should be discounted at the standard rate which varies by year but is 3.50% for years 1-30",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-004#0",
+    "type": "answerable",
+    "text": "The five cases of the Five Case Model include the strategic case.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-004#1",
+    "type": "answerable",
+    "text": "The five cases of the Five Case Model include the economic case.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-004#2",
+    "type": "answerable",
+    "text": "The five cases of the Five Case Model include the commercial case.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-004#3",
+    "type": "answerable",
+    "text": "The five cases of the Five Case Model include the financial case.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-004#4",
+    "type": "answerable",
+    "text": "The five cases of the Five Case Model include the management case.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-005#0",
+    "type": "answerable",
+    "text": "The Green Book is primarily guidance for developing the strategic case.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-005#1",
+    "type": "answerable",
+    "text": "The Green Book is primarily guidance for developing the economic case.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-005#2",
+    "type": "answerable",
+    "text": "The Green Book provides guidance on developing business cases based on the Five Case Model, which includes the commercial case.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "ggyg"
+  },
+  {
+    "id": "GB-005#3",
+    "type": "answerable",
+    "text": "The Green Book provides guidance on developing business cases based on the Five Case Model, which includes the financial case.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "gggg"
+  },
+  {
+    "id": "GB-005#4",
+    "type": "answerable",
+    "text": "The Green Book sets out requirements for investment appraisal and business case development which apply to all programmes and projects involving significant central government expenditure.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-006#0",
+    "type": "answerable",
+    "text": "The letters in the ROAMEF cycle stand for Rationale, Objectives, Appraisal, Monitoring, Evaluation, and Feedback.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-006#1",
+    "type": "answerable",
+    "text": "A proposal typically progresses through six stages: rationale, objectives, appraisal, monitoring, evaluation, and feedback.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-007#0",
+    "type": "answerable",
+    "text": "The return on public sector cost (RPSC) measures how effectively an option optimises social value relative to its cost to the public sector.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-007#1",
+    "type": "answerable",
+    "text": "The RPSC differs from the benefit-cost ratio (BCR) in that it specifically focuses on the public sector's perspective and costs, whereas the BCR considers society as a whole.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-007#2",
+    "type": "answerable",
+    "text": "The RPSC is described as helpful for comparing different options based on how effectively they optimise social value relative to their cost to the public sector.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-007#3",
+    "type": "answerable",
+    "text": "The RPSC provides a more nuanced view than the BCR which only captures monetisable social benefits and costs.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "ggyg"
+  },
+  {
+    "id": "GB-007#4",
+    "type": "answerable",
+    "text": "The benefit-cost ratio (BCR) is described as the social return of a proposal that captures the monetisable social benefits generated for each pound sterling of monetisable social costs.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-008#0",
+    "type": "answerable",
+    "text": "Value for money is defined as the balanced judgement about the optimal use of public resources to achieve the objectives of a proposal.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-008#1",
+    "type": "answerable",
+    "text": "It involves considering the performance of a proposal against its objectives and critical success factors.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-008#2",
+    "type": "answerable",
+    "text": "It considers costs and benefits that are monetisable and unmonetisable.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-008#3",
+    "type": "answerable",
+    "text": "It includes distributional effects among different social groups and places.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-008#4",
+    "type": "answerable",
+    "text": "It considers risk and uncertainty inherent in the proposal.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-008#5",
+    "type": "answerable",
+    "text": "Value for money optimises social value within a constrained budget.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-008#6",
+    "type": "answerable",
+    "text": "Social value includes economic prosperity, justice, security, the climate, the environment, people's health and wellbeing.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-009#0",
+    "type": "answerable",
+    "text": "The Green Book recommends against the use of multi-criteria analysis (MCA) in decision making.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-009#1",
+    "type": "answerable",
+    "text": "MCA involves simple 'weighting and scoring' that lacks an objective basis and can reduce transparency.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-009#2",
+    "type": "answerable",
+    "text": "MCDA is used to inform complex technical trade-offs at the longlist stage.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-009#3",
+    "type": "answerable",
+    "text": "MCDA makes use of swing weighting to objectively weigh the balance of informed expert and stakeholder opinion.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-010#0",
+    "type": "answerable",
+    "text": "Green rating means the option choice in its category best meets the critical success factors.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-010#1",
+    "type": "answerable",
+    "text": "Amber rating indicates an option choice that meets the critical success factors but not as well as the green-rated option choice.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-010#2",
+    "type": "answerable",
+    "text": "Red rating signifies an option choice that does not meet the critical success factors.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-010#3",
+    "type": "answerable",
+    "text": "Option choices rated red are discarded from the process.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-011#0",
+    "type": "answerable",
+    "text": "The Green Book uses a value of 1.3 for the elasticity of marginal utility of income.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-011#1",
+    "type": "answerable",
+    "text": "This value enters the welfare weight as part of the formula: Welfare weight of group = median equivalised income of group / (median equivalised income of national population) × 1.3.",
+    "gold": "r",
+    "meta": false,
+    "category": "numeric",
+    "says": "gggg"
+  },
+  {
+    "id": "GB-012#0",
+    "type": "answerable",
+    "text": "Place-based analysis must assess displacement as an effect beyond additionality and deadweight.",
+    "gold": "y",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "ggyy"
+  },
+  {
+    "id": "GB-012#1",
+    "type": "answerable",
+    "text": "Place-based analysis should consider substitution effects which refer to how interventions might have different impacts in different geographical areas.",
+    "gold": "y",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "ggyg"
+  },
+  {
+    "id": "GB-012#2",
+    "type": "answerable",
+    "text": "Place-based analysis should take into account leakage, considering the quantifiable or qualitative costs and effects of options on different places.",
+    "gold": "y",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggg"
+  },
+  {
+    "id": "GB-013#0",
+    "type": "answerable",
+    "text": "The duty to have due regard to the environmental principles policy statement (EPPS) must be explicitly reflected in appraisals at both the longlist and shortlist stages.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-013#1",
+    "type": "answerable",
+    "text": "The duty to consider mitigating negative impacts on the environment must be explicitly reflected in appraisals at both the longlist and shortlist stages.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "gggy"
+  },
+  {
+    "id": "GB-013#2",
+    "type": "answerable",
+    "text": "Devolved governments' own statutory duties, where relevant, must be explicitly reflected in appraisals at both the longlist and shortlist stages.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "ggyg"
+  },
+  {
+    "id": "MB-001#0",
+    "type": "answerable",
+    "text": "The three main types of evaluation in the Magenta Book include process evaluation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-001#1",
+    "type": "answerable",
+    "text": "The three main types of evaluation in the Magenta Book include impact evaluation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-001#2",
+    "type": "answerable",
+    "text": "The three main types of evaluation in the Magenta Book include value for money evaluation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-001#3",
+    "type": "answerable",
+    "text": "These types of evaluation are complementary and often overlap to provide a comprehensive understanding of an intervention's effectiveness.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-003#0",
+    "type": "answerable",
+    "text": "The core principle underlying experimental and quasi-experimental impact evaluation methods is that there is a 'counterfactual'.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-003#1",
+    "type": "answerable",
+    "text": "The counterfactual involves observed outcomes from a 'control' group that did not receive the intervention.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-003#2",
+    "type": "answerable",
+    "text": "This counterfactual acts as a proxy for what would have happened to the affected group in the absence of the intervention.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-004#0",
+    "type": "answerable",
+    "text": "Three variants of the randomised controlled trial described in the Magenta Book are Randomised control trials (RCTs)",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "MB-004#1",
+    "type": "answerable",
+    "text": "Three variants of the randomised controlled trial described in the Magenta Book are Cluster RCTs",
+    "gold": "g",
+    "meta": false,
+    "says": "ggyy"
+  },
+  {
+    "id": "MB-004#2",
+    "type": "answerable",
+    "text": "Three variants of the randomised controlled trial described in the Magenta Book are Stepped-wedge RCTs",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-004#3",
+    "type": "answerable",
+    "text": "Randomised control trials randomly assign individuals or groups to the treatment or control group",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-004#4",
+    "type": "answerable",
+    "text": "Cluster RCTs subject groups of participants rather than individuals to randomisation",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-004#5",
+    "type": "answerable",
+    "text": "Stepped-wedge RCTs apply an intervention sequentially and at random to average additional or net change caused by groups of participants",
+    "gold": "y",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggg"
+  },
+  {
+    "id": "MB-005#0",
+    "type": "answerable",
+    "text": "The Four Es in the value for money framework are economy, efficiency, effectiveness, and equity.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-005#1",
+    "type": "answerable",
+    "text": "The Magenta Book notes that this approach will not generally result in numerical summary measures that can be easily compared across interventions.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-006#0",
+    "type": "answerable",
+    "text": "The Magenta Book suggests an evaluation should be organised around typically 6 or 7 high-level questions.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "MB-006#1",
+    "type": "answerable",
+    "text": "These high-level questions are described as being generated through a top-down approach and sitting under more detailed questions.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggg"
+  },
+  {
+    "id": "MB-007#0",
+    "type": "answerable",
+    "text": "A linear Theory of Change is illustrated in Figure 2.2 as an 'input, output, outcome and impact' chain.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-008#0",
+    "type": "answerable",
+    "text": "A I systems produce outputs with randomness (stochasticity)",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-008#1",
+    "type": "answerable",
+    "text": "Using A I in coding and data analysis without sufficient human oversight can lead to data security breaches",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-008#2",
+    "type": "answerable",
+    "text": "Using A I in coding and data analysis without sufficient human oversight can result in data not being cleaned correctly",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-008#3",
+    "type": "answerable",
+    "text": "Inappropriate statistical models may be chosen when using A I in coding and data analysis without sufficient human oversight",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-008#4",
+    "type": "answerable",
+    "text": "Output produced by A I systems might not reflect the full range of policy-relevant outcomes",
+    "gold": "g",
+    "meta": false,
+    "says": "gygg"
+  },
+  {
+    "id": "MB-009#0",
+    "type": "answerable",
+    "text": "Contribution analysis is a theory-based impact evaluation method.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-009#1",
+    "type": "answerable",
+    "text": "Theory-based impact evaluation methods is a general category.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-009#2",
+    "type": "answerable",
+    "text": "No other specific theory-based impact evaluation method besides contribution analysis is mentioned in the provided passages.",
+    "gold": "g",
+    "meta": true,
+    "says": "gyyy"
+  },
+  {
+    "id": "MB-010#0",
+    "type": "answerable",
+    "text": "Contribution analysis should check that analytical procedures have been applied fairly and appropriately.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggg"
+  },
+  {
+    "id": "MB-010#1",
+    "type": "answerable",
+    "text": "It is recommended to include a technical methods annex to strengthen confidence and aid replicability in contribution analysis.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggg"
+  },
+  {
+    "id": "MB-011#0",
+    "type": "answerable",
+    "text": "Even sophisticated AI techniques cannot establish causality from data.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "gggg"
+  },
+  {
+    "id": "MB-011#1",
+    "type": "answerable",
+    "text": "Impact evaluations based on small sample sizes often have insufficient data to draw robust conclusions.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-011#2",
+    "type": "answerable",
+    "text": "Impact evaluations are challenging to design and implement because they aim to assess changes attributed to the intervention while considering other influences.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-011#3",
+    "type": "answerable",
+    "text": "Few evaluations can answer every question posed due to methodological limits and resource constraints.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-012#0",
+    "type": "answerable",
+    "text": "One of the Magenta Book's supplementary guides is Quality in Qualitative Evaluation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-012#1",
+    "type": "answerable",
+    "text": "Another guide is Realist Evaluation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-012#2",
+    "type": "answerable",
+    "text": "A third guide is Guidance for Conducting Regulatory Post-Implementation Reviews.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-001#0",
+    "type": "answerable",
+    "text": "The main principles are mandatory requirements for assessing compliance with Corporate Governance Code and overseeing governance statement preparation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-001#1",
+    "type": "answerable",
+    "text": "Part I – Risk Management Principles Sections (A-E) provide the 'what' and 'why' for an effective risk management framework.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-001#2",
+    "type": "answerable",
+    "text": "Sections in Part I include Section B: Integration, Section C: Collaboration and Best Information, Section D: Risk Management Processes, Section E: Continual Improvement.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-001#3",
+    "type": "answerable",
+    "text": "Main principle of risk management processes includes identifying and assessing risks that can impact successful achievement of objectives.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "OB-001#4",
+    "type": "answerable",
+    "text": "Risk management processes also involve determining the nature and extent of risks an organisation is willing to take to achieve its objectives.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "gygg"
+  },
+  {
+    "id": "OB-002#0",
+    "type": "answerable",
+    "text": "The Orange Book adopts a 'Comply or Explain' approach.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-002#1",
+    "type": "answerable",
+    "text": "Organizations are required either to disclose compliance with the principles of the Orange Book or to explain their reasons for departure clearly and carefully in their governance statement accompanying their annual resource accounts.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-003#0",
+    "type": "answerable",
+    "text": "The Orange Book has two parts.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-003#1",
+    "type": "answerable",
+    "text": "Part I of the Orange Book is titled Management of Risk – Principles and Concepts.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-003#2",
+    "type": "answerable",
+    "text": "Part II of the Orange Book is titled The Risk Control Framework.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-003#3",
+    "type": "answerable",
+    "text": "Part I builds on the original Orange Book to improve risk management practices in government organisations.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-003#4",
+    "type": "answerable",
+    "text": "Part I provides principles for risk management.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-003#5",
+    "type": "answerable",
+    "text": "Part II offers a structure to categorise existing high-level control requirements.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-003#6",
+    "type": "answerable",
+    "text": "Part II helps organisations ensure adherence to control requirements and adopt an effective and efficient approach to risk control.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "OB-004#0",
+    "type": "answerable",
+    "text": "The first pillar of the Risk Control Framework is Governance & Management Framework Propriety & Ethics",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-004#1",
+    "type": "answerable",
+    "text": "The fourth pillar of the Risk Control Framework is Standards, Policies & Procedures Approvals",
+    "gold": "y",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggg"
+  },
+  {
+    "id": "OB-004#2",
+    "type": "answerable",
+    "text": "These pillars are underpinned by the 'three lines model'",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-005#0",
+    "type": "answerable",
+    "text": "Governance bodies and senior management are not considered to be part of the 'lines' in this model.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-005#1",
+    "type": "answerable",
+    "text": "They are the primary stakeholders served by the 'line roles'.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-006#0",
+    "type": "answerable",
+    "text": "A principal risk is defined as a risk or combination of risks that can seriously affect the performance or reputation of the organisation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-006#1",
+    "type": "answerable",
+    "text": "The nature and extent of the principal risks an organisation is willing to take in achieving its objectives should be determined and used to inform decision-making.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "OB-007#0",
+    "type": "answerable",
+    "text": "The Orange Book characterises risk appetite as the nature and extent of the principal risks that the organisation is willing to take to achieve its objectives.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-007#1",
+    "type": "answerable",
+    "text": "Organisations should determine and continuously assess their risk appetite.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-007#2",
+    "type": "answerable",
+    "text": "The Audit and Risk Assurance Committee understands the organisation's policies, attitude to, and appetite for risk.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "gggg"
+  },
+  {
+    "id": "OB-007#3",
+    "type": "answerable",
+    "text": "The board or equivalent senior governance body owns the risk appetite.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-008#0",
+    "type": "answerable",
+    "text": "Risk management processes must include risk identification and assessment to determine and prioritise how risks should be managed.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-008#1",
+    "type": "answerable",
+    "text": "Risk management processes must include the selection, design and implementation of risk treatment options that support achievement of intended outcomes and manage risks to an acceptable level.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-008#2",
+    "type": "answerable",
+    "text": "Risk management processes must include the design and operation of integrated, insightful and informative risk monitoring.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-008#3",
+    "type": "answerable",
+    "text": "Risk management processes must include timely, accurate and useful risk reporting to enhance the quality of decision-making and to support management and oversight bodies in meeting their responsibilities.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-009#0",
+    "type": "answerable",
+    "text": "The supplementary guides linked to the Orange Book include the Risk Appetite Guidance Note",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-009#1",
+    "type": "answerable",
+    "text": "The supplementary guides linked to the Orange Book include the Risk Management Skills & Capabilities Framework",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-009#2",
+    "type": "answerable",
+    "text": "The supplementary guides linked to the Orange Book include the Risk Reporting Good Practice Guide",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-009#3",
+    "type": "answerable",
+    "text": "The supplementary guides linked to the Orange Book include the Portfolio Risk Management Guidance",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-009#4",
+    "type": "answerable",
+    "text": "The Aqua Book is mentioned as being linked to the Orange Book",
+    "gold": "y",
+    "meta": false,
+    "category": "cross-document",
+    "says": "gggg"
+  },
+  {
+    "id": "OB-009#5",
+    "type": "answerable",
+    "text": "The Outsourcing Playbook is mentioned as being linked to the Orange Book",
+    "gold": "y",
+    "meta": false,
+    "category": "cross-document",
+    "says": "gggg"
+  },
+  {
+    "id": "OB-011#0",
+    "type": "answerable",
+    "text": "At least annually, a review of the risk management framework and its performance outcomes should be conducted.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "OB-011#1",
+    "type": "answerable",
+    "text": "The risk management framework should be under continuous review to ensure it remains effective.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-001#0",
+    "type": "answerable",
+    "text": "Knowledge Assets are intangible assets that an organisation holds which include inventions, designs, data and information, creative outputs such as text, video, graphics, software and source code, know-how and expertise, business processes, services and other intellectual resources.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-001#1",
+    "type": "answerable",
+    "text": "Knowledge Assets are valuable public assets which support the effective delivery of public services.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-001#2",
+    "type": "answerable",
+    "text": "Knowledge Assets can have considerable value and impact beyond their original purpose including social, economic, financial or in combination.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-001#3",
+    "type": "answerable",
+    "text": "The Rose Book provides guidance on identifying, protecting and exploiting knowledge assets.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-001#4",
+    "type": "answerable",
+    "text": "A knowledge asset is a piece of knowledge viewed as an asset to the person or organisation which possesses it, including examples such as inventions, designs, data and information, software and source code, expertise and other intellectual resources.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-001#5",
+    "type": "answerable",
+    "text": "Knowledge Assets under The Rose Book include intangible assets such as inventions, designs, data and information, creative outputs, know-how and expertise, business processes, services, and other intellectual resources.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-002#0",
+    "type": "answerable",
+    "text": "The Rose Book groups Knowledge Assets into five categories.",
+    "gold": "g",
+    "meta": false,
+    "says": "gygg"
+  },
+  {
+    "id": "RB-002#1",
+    "type": "answerable",
+    "text": "One of the categories is Information (including Data and other).",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-002#2",
+    "type": "answerable",
+    "text": "Another category is Innovation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-002#3",
+    "type": "answerable",
+    "text": "Creative is a separate category for Knowledge Assets.",
+    "gold": "g",
+    "meta": false,
+    "says": "gygg"
+  },
+  {
+    "id": "RB-002#4",
+    "type": "answerable",
+    "text": "Reputational is one of the categories in The Rose Book.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-002#5",
+    "type": "answerable",
+    "text": "Knowhow is listed as a distinct category.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-003#0",
+    "type": "answerable",
+    "text": "Knowledge Assets can generate Social value.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-003#1",
+    "type": "answerable",
+    "text": "Knowledge Assets can generate Economic value.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-003#2",
+    "type": "answerable",
+    "text": "Knowledge Assets can generate Financial value.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-003#3",
+    "type": "answerable",
+    "text": "Organisations can exploit Knowledge Assets for social returns.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-003#4",
+    "type": "answerable",
+    "text": "Organisations can exploit Knowledge Assets for economic returns.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-003#5",
+    "type": "answerable",
+    "text": "Organisations can exploit Knowledge Assets for financial returns.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-003#6",
+    "type": "answerable",
+    "text": "Exploitation of Knowledge Assets should be considered in terms of their value to UK society.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-003#7",
+    "type": "answerable",
+    "text": "The value to UK society is typically a combination of social, economic, or financial value.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-004#0",
+    "type": "answerable",
+    "text": "The board should actively seek to recognise their Knowledge Assets",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-004#1",
+    "type": "answerable",
+    "text": "The board should take steps to ensure appropriate management of Knowledge Assets through identification and protection",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-004#2",
+    "type": "answerable",
+    "text": "Each organisation should have a strategy for managing their Knowledge Assets",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-004#3",
+    "type": "answerable",
+    "text": "The strategy for managing Knowledge Assets should be considered alongside the legal framework and other relevant guidance or principles",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-005#0",
+    "type": "answerable",
+    "text": "The first level of Knowledge Asset protection is open access or no protection.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-005#1",
+    "type": "answerable",
+    "text": "The second level of Knowledge Asset protection is access restriction and confidentiality.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-005#2",
+    "type": "answerable",
+    "text": "The third level of Knowledge Asset protection involves registered and unregistered rights.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-006#0",
+    "type": "answerable",
+    "text": "The Rose Book does not apply to universities.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-006#1",
+    "type": "answerable",
+    "text": "The Rose Book does not apply to local government.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-006#2",
+    "type": "answerable",
+    "text": "The Rose Book does not apply to the devolved administrations.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-006#3",
+    "type": "answerable",
+    "text": "The Rose Book provides funding and support to universities through the public sector seed fund, UKI2S.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggg"
+  },
+  {
+    "id": "RB-007#0",
+    "type": "answerable",
+    "text": "A Knowledge Asset Management Strategy should contain three key elements: Strategic Context, Putting KA Management into Practice, and Continuous Evaluation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-007#1",
+    "type": "answerable",
+    "text": "Strategic Context sets out the organisational context and management objectives, including who will be accountable for implementing the KAMS and its responsibilities.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-007#2",
+    "type": "answerable",
+    "text": "Putting KA Management into Practice includes how KA management, decision making and governance will be implemented in the organisation, including how the principles of Identify, Exploit and Protect will be resourced and embedded.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-007#3",
+    "type": "answerable",
+    "text": "Continuous Evaluation involves evaluating the organisation’s approach to KA management and impact achieved.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-008#0",
+    "type": "answerable",
+    "text": "Raw data is not usually protected by Intellectual Property (IP) rights.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-008#1",
+    "type": "answerable",
+    "text": "Database rights can protect collections of data.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#0",
+    "type": "answerable",
+    "text": "The Teal Book is a guidance document that provides a clear, practical model for supporting delivery teams in government.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#1",
+    "type": "answerable",
+    "text": "Its purpose is to enable practitioners and teams to direct and manage portfolios, programmes, and projects successfully and on time.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#2",
+    "type": "answerable",
+    "text": "It supports the Government Functional Standard for Project Delivery.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#3",
+    "type": "answerable",
+    "text": "It offers an overview of project delivery in government.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#4",
+    "type": "answerable",
+    "text": "It describes practices and techniques involved in directing and managing a portfolio, programme, or project.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#5",
+    "type": "answerable",
+    "text": "The Teal Book is structured into 6 parts.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#6",
+    "type": "answerable",
+    "text": "It can be used in varying ways depending on the role or need of the user.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#7",
+    "type": "answerable",
+    "text": "It provides guidance on tailoring which involves adapting its content to suit specific situations within an organization or for particular projects.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#8",
+    "type": "answerable",
+    "text": "Tailoring is essential for effective project delivery and should conform to government functional standards while taking into account internal and external constraints.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#9",
+    "type": "answerable",
+    "text": "The Teal Book can be used as a reference.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#10",
+    "type": "answerable",
+    "text": "Its guidance can be applied in different ways depending on the user's role or needs.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-001#11",
+    "type": "answerable",
+    "text": "It does not need to be read in full to make use of it.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-002#0",
+    "type": "answerable",
+    "text": "The Teal Book is underpinned by 3 principles.",
+    "gold": "y",
+    "meta": false,
+    "category": "numeric",
+    "says": "rggg"
+  },
+  {
+    "id": "TB-002#1",
+    "type": "answerable",
+    "text": "Delivery objectives are aligned to government policy and organisational objectives.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-002#2",
+    "type": "answerable",
+    "text": "Outcomes and enabling outputs meet the identified need and are validated by stakeholders.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-002#3",
+    "type": "answerable",
+    "text": "Principle 3 of The Teal Book is mentioned but not fully described.",
+    "gold": "g",
+    "meta": true,
+    "says": "gyyy"
+  },
+  {
+    "id": "TB-002#4",
+    "type": "answerable",
+    "text": "These principles are universal, validated, and empowering.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-002#5",
+    "type": "answerable",
+    "text": "The principles come from the Government Functional Standard for Project Delivery.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-002#6",
+    "type": "answerable",
+    "text": "Equality, diversity, and inclusion are fundamental principles underpinning the work of government, though they are not explicitly stated as one of the 3 underlying principles of The Teal Book.",
+    "gold": "y",
+    "meta": true,
+    "category": "meta",
+    "says": "yygy"
+  },
+  {
+    "id": "TB-002#7",
+    "type": "answerable",
+    "text": "Part A of The Teal Book provides a foundation focusing on governance and management including an understanding of assurance and evaluation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-003#0",
+    "type": "answerable",
+    "text": "A portfolio is defined as part or all of an organisation's investment required to achieve its objectives.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-003#1",
+    "type": "answerable",
+    "text": "A portfolio comprises work components such as other portfolios, programmes, projects, and related work.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-003#2",
+    "type": "answerable",
+    "text": "A portfolio is governed through its portfolio plan and managed continuously with no defined end point.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-003#3",
+    "type": "answerable",
+    "text": "A portfolio is usually funded through annual budgets.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-003#4",
+    "type": "answerable",
+    "text": "There is no specific time-bounded approach mentioned for managing a portfolio in the provided passages.",
+    "gold": "g",
+    "meta": true,
+    "says": "gyry"
+  },
+  {
+    "id": "TB-003#5",
+    "type": "answerable",
+    "text": "A portfolio provides a broad, enterprise-wide view including change initiatives (programmes and projects) as well as improvement initiatives not managed as projects and business-as-usual.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-004#0",
+    "type": "answerable",
+    "text": "The nature or characteristics of what is to be delivered determines whether something is a portfolio, programme, or project.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-004#1",
+    "type": "answerable",
+    "text": "An initiative can start as a project and later become a programme if further projects or work packages are added.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-004#2",
+    "type": "answerable",
+    "text": "A programme's governance and management framework should be tailored from the one for the portfolio.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-005#0",
+    "type": "answerable",
+    "text": "According to, individual projects within a programme should not have their own senior responsible owner.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-005#1",
+    "type": "answerable",
+    "text": "The senior responsible owner has overall accountability for the direction of the programme or project according to.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-006#0",
+    "type": "answerable",
+    "text": "Part A of The Teal Book provides a foundation for governance and management as it applies to project delivery overall",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-006#1",
+    "type": "answerable",
+    "text": "Part B of The Teal Book tailors The Teal Book to particular situations",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "TB-006#2",
+    "type": "answerable",
+    "text": "Part C of The Teal Book manages portfolios",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-006#3",
+    "type": "answerable",
+    "text": "Part D of The Teal Book manages programmes and projects",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-006#4",
+    "type": "answerable",
+    "text": "Part E of The Teal Book covers planning and control practices",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "TB-006#5",
+    "type": "answerable",
+    "text": "Part F of The Teal Book covers solution delivery practices",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-007#0",
+    "type": "answerable",
+    "text": "Tailoring under the Teal Book does not mean that any practices in The Teal Book can be excluded.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-007#1",
+    "type": "answerable",
+    "text": "If a practice is omitted from The Teal Book, it will weaken the management of the work and threaten a successful outcome.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-008#0",
+    "type": "answerable",
+    "text": "The Teal Book sets out three risk response categories: Avoid, Treat, Transfer.",
+    "gold": "r",
+    "meta": false,
+    "category": "numeric",
+    "says": "gggg"
+  },
+  {
+    "id": "TB-008#1",
+    "type": "answerable",
+    "text": "Accept is a risk response category according to The Teal Book.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-008#2",
+    "type": "answerable",
+    "text": "Share is a risk response category according to The Teal Book.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-008#3",
+    "type": "answerable",
+    "text": "For opportunities, similar actions can be taken to exploit the situation which often combines a mix of approaches.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-008#4",
+    "type": "answerable",
+    "text": "Sharing an opportunity involves transferring part of its impact to one or more projects or parties.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-008#5",
+    "type": "answerable",
+    "text": "Avoiding an opportunity means removing or working around the cause(s) of the opportunity.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggg"
+  },
+  {
+    "id": "TB-008#6",
+    "type": "answerable",
+    "text": "Treating an opportunity involves developing a response plan to exploit it.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggy"
+  },
+  {
+    "id": "TB-008#7",
+    "type": "answerable",
+    "text": "Transferring an opportunity involves relocating its impact to another project or party.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gggg"
+  },
+  {
+    "id": "TB-008#8",
+    "type": "answerable",
+    "text": "Accepting an opportunity involves accepting the positive impact if it materialises.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "ggyg"
+  },
+  {
+    "id": "TB-008#9",
+    "type": "answerable",
+    "text": "Sharing an opportunity involves transferring part of its impact to one or more projects or parties.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-009#0",
+    "type": "answerable",
+    "text": "First line assurance is provided by managers who own and manage the risks directly",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-009#1",
+    "type": "answerable",
+    "text": "Second line assurance is provided by the sponsoring organisation to provide assurance to the accounting officer",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-009#2",
+    "type": "answerable",
+    "text": "Third line assurance is provided by a body external to the organisation to provide an objective opinion on the effectiveness of first and/or second line assurance",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-009#3",
+    "type": "answerable",
+    "text": "Fourth line assurance is provided by a body external to the organisation to provide an objective opinion on the effectiveness of organisational or systemic governance, risk management and controls",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-009#4",
+    "type": "answerable",
+    "text": "These lines of assurance are described as separate levels that work together to provide confidence in project delivery",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-010#0",
+    "type": "answerable",
+    "text": "The portfolio director owns the portfolio plan.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-010#1",
+    "type": "answerable",
+    "text": "The portfolio director owns the portfolio's vision and strategy.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-010#2",
+    "type": "answerable",
+    "text": "The senior responsible owner owns the programme's or project's business case.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-010#3",
+    "type": "answerable",
+    "text": "The work package manager owns the work plan.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-011#0",
+    "type": "answerable",
+    "text": "The sponsoring body acts as the higher-level authority for a programme or project, providing oversight and acting as the driving force for the work.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-011#1",
+    "type": "answerable",
+    "text": "It is accountable to a defined higher-level authority, usually the accounting officer of a government department, and through them to ministers and Parliament.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-011#2",
+    "type": "answerable",
+    "text": "In some cases, the sponsoring body can be an individual, a group, or a board, depending on the programme's or project's context.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-011#3",
+    "type": "answerable",
+    "text": "The make-up of a sponsoring body can include the portfolio board, its director, the senior official overseeing the policy area, or at organisational level, the executive or departmental management board.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-011#4",
+    "type": "answerable",
+    "text": "The accounting officer is accountable to Parliament for ensuring that the organisation's actions meet the accounting officer standards of regularity, propriety, value for money and feasibility.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-011#5",
+    "type": "answerable",
+    "text": "The accounting officer in an arm's length body is usually accountable to the principal accounting officer in the sponsoring department for use of allocated funding as well as to Parliament.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-012#0",
+    "type": "answerable",
+    "text": "The Teal Book received recognition as HM Treasury's Innovation of the Year in 2025.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-012#1",
+    "type": "answerable",
+    "text": "The current edition of The Teal Book is the third edition.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-012#2",
+    "type": "answerable",
+    "text": "The third edition reflects continued feedback from across government.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-012#3",
+    "type": "answerable",
+    "text": "The third edition builds on the foundation established by previous editions.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-013#0",
+    "type": "answerable",
+    "text": "A work package is defined as a group of related activities with a defined scope, deliverable, timescale and cost contributing to required outputs and outcomes.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-013#1",
+    "type": "answerable",
+    "text": "A work package cannot be shared between different projects.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "XB-001#0",
+    "type": "answerable",
+    "text": "The Green Book directs practitioners to The Teal Book for guidance on project delivery arrangements, benefits realisation, and risk management.",
+    "gold": "y",
+    "meta": false,
+    "category": "cross-document",
+    "says": "gygy"
+  },
+  {
+    "id": "XB-001#1",
+    "type": "answerable",
+    "text": "The Green Book directs practitioners to The Orange Book for guidance on risk management.",
+    "gold": "g",
+    "meta": false,
+    "says": "ggyg"
+  },
+  {
+    "id": "XB-001#2",
+    "type": "answerable",
+    "text": "The Green Book directs practitioners to The Magenta Book for guidance on evaluation in government: its scoping, design, conduct, use, and dissemination as well as the capabilities required of government evaluators.",
+    "gold": "y",
+    "meta": false,
+    "category": "cross-document",
+    "says": "gggg"
+  },
+  {
+    "id": "XB-003#0",
+    "type": "answerable",
+    "text": "The definition of 'risk' is consistent between The Green Book and The Orange Book.",
+    "gold": "y",
+    "meta": false,
+    "category": "cross-document",
+    "says": "gygy"
+  },
+  {
+    "id": "XB-003#1",
+    "type": "answerable",
+    "text": "Risk is defined as: The effect of uncertainty on objectives.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "XB-003#2",
+    "type": "answerable",
+    "text": "Risk analysis should use a common set of risk criteria to define the level of risk, based on the assessment of likelihood and consequences.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-001#0",
+    "type": "partial",
+    "text": "The discount rate used in the Green Book is known as the social time preference rate (STPR), which is set at 3.50% in real terms for years 1 to 30 of an appraisal.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-002#0",
+    "type": "partial",
+    "text": "The Green Book does not specify a fixed percentage uplift for optimism bias that should be applied to capital costs.",
+    "gold": "g",
+    "meta": true,
+    "says": "gygg"
+  },
+  {
+    "id": "PS-002#1",
+    "type": "partial",
+    "text": "Practitioners are advised to make explicit adjustments at the outset of an appraisal and increase estimated costs and timeframes, and decrease estimated benefits.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-002#2",
+    "type": "partial",
+    "text": "The size of these adjustments should be informed by the evidence base of the originating organisation, including average historical forecast errors.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-002#3",
+    "type": "partial",
+    "text": "If a public body does not have evidence on their historical optimism bias, practitioners can use generic values in the Green Book supplementary guidance on optimism bias.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-003#0",
+    "type": "partial",
+    "text": "There is no fixed proportion of a proposal's value that should be dedicated to evaluation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-003#1",
+    "type": "partial",
+    "text": "The scale of the evaluation is generally proportionate to the scale and ambition of the intervention.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-003#2",
+    "type": "partial",
+    "text": "There is no standard proportion for dedicating resources to evaluation.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-003#3",
+    "type": "partial",
+    "text": "There is no fixed amount allocated for evaluations.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-003#4",
+    "type": "partial",
+    "text": "Evaluations require a project manager with appropriate analytical skills.",
+    "gold": "y",
+    "meta": false,
+    "category": "overstatement",
+    "says": "gggg"
+  },
+  {
+    "id": "PS-003#5",
+    "type": "partial",
+    "text": "Costs for evaluations should be reflected in both the economic and financial dimensions of the business case.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-005#0",
+    "type": "partial",
+    "text": "\"Environmental\" is mentioned as a factor to consider when evaluating a strategy.",
+    "gold": "y",
+    "meta": false,
+    "category": "premise-echo",
+    "says": "gggg"
+  },
+  {
+    "id": "PS-005#1",
+    "type": "partial",
+    "text": "\"Environmental\" risks are not explicitly mentioned as a separate category.",
+    "gold": "g",
+    "meta": true,
+    "says": "gyry"
+  },
+  {
+    "id": "PS-006#1",
+    "type": "partial",
+    "text": "The score range for 'Medium' assessed risk is implied to be between Low and Very Low.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "gygy"
+  },
+  {
+    "id": "PS-007#0",
+    "type": "partial",
+    "text": "The provided passages do not specify a value threshold that an organisation should exceed before seeking patent protection for a Knowledge Asset.",
+    "gold": "g",
+    "meta": true,
+    "says": "ggrr"
+  },
+  {
+    "id": "PS-007#1",
+    "type": "partial",
+    "text": "The passages discuss the importance of protecting Knowledge Assets through confidentiality agreements.",
+    "gold": "g",
+    "meta": true,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-007#2",
+    "type": "partial",
+    "text": "The passages mention the need to consider wider benefits beyond commercialisation value.",
+    "gold": "g",
+    "meta": true,
+    "says": "gggg"
+  },
+  {
+    "id": "PS-007#3",
+    "type": "partial",
+    "text": "The passages note the costs associated with maintaining registered rights over time.",
+    "gold": "g",
+    "meta": true,
+    "says": "ggyg"
+  },
+  {
+    "id": "AB-101#0",
+    "type": "false-premise",
+    "text": "The Government Actuary's Department (GAD) can provide expert quality assurance reviews of models across the public sector.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-101#1",
+    "type": "false-premise",
+    "text": "Third parties, including non-ministerial departments like GAD, can undertake various roles in the analytical lifecycle, including assurer.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-101#2",
+    "type": "false-premise",
+    "text": "One approved external supplier that departments can use is The Government Actuary’s Department (GAD).",
+    "gold": "y",
+    "meta": false,
+    "category": "premise-echo",
+    "says": "ggyg"
+  },
+  {
+    "id": "AB-102#0",
+    "type": "false-premise",
+    "text": "If you are publishing research, you shall follow your organisation's guidance and the Government Social Research Publication protocol.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-102#1",
+    "type": "false-premise",
+    "text": "The AQuA Book is intended for anyone who commissions, uses, conducts, or assures analysis, including data scientists, economists, and actuaries.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "AB-102#2",
+    "type": "false-premise",
+    "text": "The Government Social Research Publication protocol covers quality assurance of qualitative research.",
+    "gold": "r",
+    "meta": false,
+    "category": "wrong-attachment",
+    "says": "ggyg"
+  },
+  {
+    "id": "GB-101#0",
+    "type": "false-premise",
+    "text": "Practitioners can find more detail on the derivation of the STPR in the Green Book supplementary guidance on discounting.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "GB-101#1",
+    "type": "false-premise",
+    "text": "A table of pre-calculated discount factors is mentioned.",
+    "gold": "g",
+    "meta": true,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-101#2",
+    "type": "false-premise",
+    "text": "The passages do not address year-51 transition factors specifically.",
+    "gold": "g",
+    "meta": true,
+    "says": "grrr"
+  },
+  {
+    "id": "GB-101#3",
+    "type": "false-premise",
+    "text": "Passage discusses wellbeing valuation and its relationship to life satisfaction.",
+    "gold": "g",
+    "meta": true,
+    "says": "gygy"
+  },
+  {
+    "id": "GB-102#0",
+    "type": "false-premise",
+    "text": "The Green Book does not provide explicit guidance on how to break a tie between two options with identical BCRs.",
+    "gold": "g",
+    "meta": true,
+    "says": "gryy"
+  },
+  {
+    "id": "GB-102#1",
+    "type": "false-premise",
+    "text": "A single summary metric of social value, such as the BCR, is not enough to make a balanced judgement about value for money.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-102#2",
+    "type": "false-premise",
+    "text": "Practitioners should consider various different factors including unmonetisable costs and benefits, risks and uncertainties, public sector cost, and distributional effects.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-102#3",
+    "type": "false-premise",
+    "text": "In cases where options have identical BCRs, practitioners may need to rely on other information presented in the appraisal summary table (AST) or use their judgement to decide how to balance the different considerations of value for money.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "GB-103#0",
+    "type": "false-premise",
+    "text": "The sixth case, the environmental case, is not explicitly mentioned as one of the cases added to the Green Book's business case model.",
+    "gold": "g",
+    "meta": true,
+    "says": "gyyy"
+  },
+  {
+    "id": "GB-103#1",
+    "type": "false-premise",
+    "text": "Natural capital is used to provide an overall framework for appraisal of a wide range of environmental effects and externalities.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-102#0",
+    "type": "false-premise",
+    "text": "The Magenta Book mentions three main types of evaluation: process, impact, and value for money evaluations.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-102#1",
+    "type": "false-premise",
+    "text": "Process evaluation assesses how an intervention was delivered, considering what worked well and less well, and why.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "MB-103#0",
+    "type": "false-premise",
+    "text": "The Magenta Book does not mention a specific p-value threshold for publication of findings.",
+    "gold": "g",
+    "meta": true,
+    "says": "gyrr"
+  },
+  {
+    "id": "RB-101#0",
+    "type": "false-premise",
+    "text": "Organisations in scope of this guidance are those headed by an Accounting Officer who is responsible for upholding Managing Public Money (MPM).",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-101#1",
+    "type": "false-premise",
+    "text": "GOTT (Government Ownership and Trading Team) is the contact point for further advice on income retention from Knowledge Asset exploitation.",
+    "gold": "y",
+    "meta": false,
+    "category": "premise-echo",
+    "says": "gggg"
+  },
+  {
+    "id": "RB-101#2",
+    "type": "false-premise",
+    "text": "The email address provided for GOTT is GOTT@dsit.gov.uk.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-101#3",
+    "type": "false-premise",
+    "text": "Dr Iain McGregor is the Director of Innovation and Development at GIAA.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "RB-101#4",
+    "type": "false-premise",
+    "text": "Passage lists Managing Public Money and the Green Book among HM Treasury publications.",
+    "gold": "g",
+    "meta": true,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-102#0",
+    "type": "false-premise",
+    "text": "Delivering higher quality than needed is not usually value for money.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "TB-102#1",
+    "type": "false-premise",
+    "text": "Iterating requirements and design is necessary to achieve a viable solution which represents value for money.",
+    "gold": "y",
+    "meta": false,
+    "category": "premise-echo",
+    "says": "gggg"
+  },
+  {
+    "id": "FB-001#0",
+    "type": "fabrication",
+    "text": "The Crimson Book is not mentioned in any of the provided source passages.",
+    "gold": "g",
+    "meta": true,
+    "says": "ggrr"
+  },
+  {
+    "id": "FB-001#1",
+    "type": "fabrication",
+    "text": "Consideration should be given to how and with whom information and data should be shared to support decision-making and communications, but this must meet legal obligations and security requirements.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "FB-003#0",
+    "type": "fabrication",
+    "text": "The new edition of the AQuA Book includes guidance on multi-use models and black box systems.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "FB-003#1",
+    "type": "fabrication",
+    "text": "Analysis used for many purposes may require greater levels of quality assurance than individual decisions they support.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "FB-003#2",
+    "type": "fabrication",
+    "text": "Repeat runs for assurance should concentrate on version control and the assurance of data and parameters for each run.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "FB-003#3",
+    "type": "fabrication",
+    "text": "Chapter 11 of the Aqua Book likely requires robust change control analysis and regular review for large language models to ensure their ongoing health and quality.",
+    "gold": "r",
+    "meta": false,
+    "category": "premise-echo",
+    "says": "ggyg"
+  },
+  {
+    "id": "FB-004#0",
+    "type": "fabrication",
+    "text": "Accounting officers should periodically assess whether the organisational values, leadership style, opportunities for debate and learning, and human resource policies support the desired risk culture.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "FB-007#0",
+    "type": "fabrication",
+    "text": "The aim of the Magenta Book is to establish a well-defined theoretical framework which can support a synthesis of the available data and evidence, in order to provide an overall evaluative judgement on the value for money of the intervention.",
+    "gold": "r",
+    "meta": false,
+    "category": "cross-document",
+    "says": "gggg"
+  },
+  {
+    "id": "FB-008#0",
+    "type": "fabrication",
+    "text": "The passages do not mention the Knowledge Asset Maturity Index.",
+    "gold": "g",
+    "meta": true,
+    "says": "grrr"
+  },
+  {
+    "id": "FB-008#1",
+    "type": "fabrication",
+    "text": "The passages do not mention any exemption criteria related to the Knowledge Asset Maturity Index.",
+    "gold": "g",
+    "meta": true,
+    "says": "gyrr"
+  },
+  {
+    "id": "FB-008#2",
+    "type": "fabrication",
+    "text": "Passage mentions that only a small proportion of Knowledge Assets will become successful products or services.",
+    "gold": "g",
+    "meta": true,
+    "says": "gggg"
+  },
+  {
+    "id": "FB-008#3",
+    "type": "fabrication",
+    "text": "This implies there may be an evaluation or assessment process for Knowledge Assets.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggy"
+  },
+  {
+    "id": "ABS-04#0",
+    "type": "abstain",
+    "text": "Knowledge assets are intangible resources with considerable value, including software, know-how, data, and intellectual property.",
+    "gold": "g",
+    "meta": false,
+    "says": "gggg"
+  },
+  {
+    "id": "ABS-05#0",
+    "type": "abstain",
+    "text": "Passage mentions the National Procurement Policy Statement and the Wales Procurement Policy Statement.",
+    "gold": "g",
+    "meta": true,
+    "says": "gggg"
+  },
+  {
+    "id": "ABS-05#1",
+    "type": "abstain",
+    "text": "Passage refers to The Procurement Act 2023: A short guide for senior leaders.",
+    "gold": "g",
+    "meta": true,
+    "says": "ggrg"
+  }
+]

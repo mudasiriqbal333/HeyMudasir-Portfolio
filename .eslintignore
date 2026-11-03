@@ -1,0 +1,24 @@
+# Allowlist 'test.js' in the '.build' folder
+# But do not allow anything else in the '.build' folder to be linted
+!.build
+.build/*
+!.build/test.js
+
+# other folder and file
+**/vendor/*.js
+.history
+.husky
+.vscode
+coverage
+dist
+node_modules
+
+# config files in the project root (app/_config/*.config.js is source and is linted)
+/*.config.js
+
+# type declaration files
+*.d.js
+
+# Research page switched off (see app/research/page.jsx): its data is no
+# longer exported from @/data, so its components would fail import/named
+app/_layout/research

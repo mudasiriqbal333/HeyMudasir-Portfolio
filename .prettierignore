@@ -1,0 +1,15 @@
+.history
+.husky
+.vscode
+.next
+.claude
+coverage
+dist
+node_modules
+originals
+public
+project-notes
+package-lock.json
+
+# written by scripts/media-sizes.mjs
+app/_data/media-sizes.json

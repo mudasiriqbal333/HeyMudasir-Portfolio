@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Fluid tokens shared with the reference design */
+  :root {
+    --section-padding: clamp(5em, 21vh, 12em);
+    --container-padding: clamp(2.5em, 8vw, 8em);
+    --gap-padding: clamp(1.5em, 4vw, 2.5em);
+    --color-dark: #1c1d20;
+    --color-dark-dark: #141517;
+    --color-white: #fff;
+    --color-blue: #455ce9;
+    --color-blue-dark: #334bd3;
+    --color-gray: #999d9e;
+    --color-lightgray: #e9eaeb;
+    --color-border: rgb(28 29 32 / 17.5%);
+    --color-border-light: rgb(255 255 255 / 20%);
+    --animation-primary: all 0.5s cubic-bezier(0.7, 0, 0.3, 1);
+    --animation-fast: all 0.3s cubic-bezier(0.7, 0, 0.3, 1);
+  }
+
+  @media (max-width: 1200px) {
+    :root {
+      --container-padding: 6vw;
+    }
+  }
+
+  @media (max-width: 720px) {
+    :root {
+      --section-padding: 12vh;
+    }
+  }
+
+  @media (max-width: 540px) {
+    :root {
+      --color-border: rgb(28 29 32 / 22.5%);
+      --color-border-light: rgb(255 255 255 / 22.5%);
+      --container-padding: clamp(1.25em, 4vw, 2.5em);
+      --section-padding: max(2.5em, 12vh);
+    }
+  }
+
+  * {
+    border-color: theme(colors.border);
+  }
+
+  *::selection {
+    background-color: theme(colors.muted.foreground);
+    color: theme(colors.background);
+  }
+
+  body {
+    font-size: clamp(16px, 1.2vw, 19px);
+    line-height: 1.6;
+    color: theme(colors.foreground);
+    background-color: theme(colors.background);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer base {
+  /* Firefox */
+  * {
+    scrollbar-color: theme(colors.secondary.foreground)
+      theme(colors.secondary.DEFAULT);
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: theme(width[1.5]);
+  }
+
+  *::-webkit-scrollbar-track {
+    background-color: theme(colors.secondary.DEFAULT);
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: theme(colors.secondary.foreground);
+    border-radius: theme(borderRadius.full);
+
+    &:hover {
+      background-color: theme(colors.secondary.DEFAULT);
+    }
+  }
+}

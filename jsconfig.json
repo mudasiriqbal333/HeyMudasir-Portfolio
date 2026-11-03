@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/components": ["./app/_components/index.js"],
+      "@/components/*": ["./app/_components/*"],
+      "@/config": ["./app/_config/index.js"],
+      "@/config/*": ["./app/_config/*"],
+      "@/data": ["./app/_data/index.js"],
+      "@/data/*": ["./app/_data/*"],
+      "@/fonts": ["./app/_fonts/index.js"],
+      "@/hooks": ["./app/_hooks/index.js"],
+      "@/hooks/*": ["./app/_hooks/*"],
+      "@/layout/*": ["./app/_layout/*"],
+      "@/lib": ["./app/_lib/index.js"],
+      "@/providers": ["./app/_providers/index.jsx"],
+      "@/utils": ["./app/_utils/index.js"],
+      "@/utils/*": ["./app/_utils/*"],
+      "@/*": ["./*"]
+    }
+  }
+}

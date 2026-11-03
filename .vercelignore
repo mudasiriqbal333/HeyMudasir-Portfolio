@@ -1,0 +1,7 @@
+# Never uploaded by `vercel deploy` from this folder: the owner's raw drop
+# folders (the site uses the cleaned copies in public/about), originals and
+# this machine's private settings.
+public/Company logos
+public/Certifications
+originals
+.env*.local

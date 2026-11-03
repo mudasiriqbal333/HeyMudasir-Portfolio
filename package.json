@@ -1,0 +1,70 @@
+{
+  "name": "mudasir-iqbal-portfolio",
+  "description": "Freelance web and AI developer. Selected projects, case studies and how to get in touch.",
+  "author": {
+    "name": "Mudasir Iqbal",
+    "email": "mudasiriqbalmcs@gmail.com",
+    "url": "https://www.linkedin.com/in/mudasirawan/"
+  },
+  "keywords": [
+    "Web Development",
+    "AI Development",
+    "Freelance",
+    "Portfolio"
+  ],
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "predev": "node scripts/media-sizes.mjs --quiet",
+    "dev": "next dev",
+    "prebuild": "node scripts/media-sizes.mjs --check && node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --test app/_data/case-options.test.js",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint app scripts --ext .js,.jsx,.mjs",
+    "lint:styles": "stylelint \"app/**/*.css\" \"app/**/*.styled.js\"",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --test",
+    "check": "npm run lint && npm run lint:styles && npm run format:check && npm test",
+    "sizes": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/media-sizes.mjs",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.29",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "framer-motion": "^10.16.16",
+    "gsap": "^3.12.4",
+    "lucide-react": "^0.298.0",
+    "next": "^15.5.27",
+    "react": "^18",
+    "react-dom": "^18",
+    "styled-components": "^6.1.1",
+    "tailwind-merge": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "autoprefixer": "^10.0.1",
+    "cssnano": "^6.0.2",
+    "eslint": "^8",
+    "eslint-config-next": "^15.5.27",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-import-resolver-typescript": "^3.10.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-tailwindcss": "^3.13.0",
+    "husky": "^8.0.0",
+    "lint-staged": "^15.2.0",
+    "postcss": "^8",
+    "postcss-preset-env": "^9.3.0",
+    "postcss-styled-syntax": "^0.5.0",
+    "prettier": "^3.1.1",
+    "stylelint": "^16.0.2",
+    "stylelint-config-standard": "^35.0.0",
+    "stylelint-config-tailwindcss": "^0.0.7",
+    "stylelint-order": "^6.0.4",
+    "tailwindcss": "^3.3.0"
+  },
+  "engines": {
+    "node": ">=22.7"
+  }
+}

@@ -1,0 +1,133 @@
+/* The desktop look of the panel comes from the Tailwind classes in the
+   components. This file adds the two things Tailwind classes cannot say
+   briefly: the panel's own scrolling, and the phone layout.
+
+   Phone rules are written as ".panel .name" on purpose: each one replaces a
+   Tailwind class on the same element (p-24, my-4, text-6xl ...), which weighs
+   the same as a single class, so without the extra class the winner would
+   depend on the order the stylesheets happen to load in. */
+
+/* A screen shorter than the menu (a phone held sideways) scrolls the panel
+   itself. No scrollbar is drawn: the reference shows none, and a bar would
+   take width from a panel that is exactly as wide as its content. */
+.panel {
+  overflow: hidden auto;
+  scrollbar-width: none;
+}
+
+.panel::-webkit-scrollbar {
+  display: none;
+}
+
+/* The component sets data-lenis-prevent only while the panel really is taller
+   than the screen. Reaching its end must not start scrolling the page behind.
+   Not set all the time: Chrome draws such a scroller on a layer of its own,
+   and that changes the edge pixels of the text by one level. */
+.panel[data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+/* Phones. Reference: .fixed-nav at max-width 540px (style-new.css).
+   Ours starts at 601px instead: the desktop panel is as wide as its content,
+   602px with today's four socials, so below that it cannot fit the screen. */
+@media (max-width: 601px) {
+  .panel {
+    width: 100%;
+  }
+
+  /* The curve rides the panel's left edge, which is now the screen's */
+  .overlay .curve {
+    right: calc(100% - 2px);
+  }
+
+  /* Reference: padding 15vh / container / 1.25 gap */
+  .panel .inner {
+    padding: 15vh var(--container-padding) calc(var(--gap-padding) * 1.25);
+  }
+
+  .panel .nav {
+    gap: 0;
+    margin-top: 0;
+  }
+
+  /* Reference: the label is 0.6em with 3em under it, then the rule, which is
+     its faint .stripe (white at 20%, or 22.5% up to 540px) */
+  .panel .heading {
+    padding-bottom: 1.8em;
+    margin-bottom: 0;
+    border-color: var(--color-border-light);
+  }
+
+  .panel .label {
+    font-size: 0.6em;
+    line-height: 1.065;
+    letter-spacing: 0.05em;
+  }
+
+  /* Reference: the rows run the full width and start half a gap to the left
+     of the text, so the whole row is the tap target. Half a gap is 0.75rem
+     at these widths; it is written out because the em inside --gap-padding
+     would be measured on the link's own large type. */
+  .panel .list {
+    width: 100%;
+    padding: 3vh 0;
+    margin-left: -0.75rem;
+  }
+
+  .panel .item {
+    margin: 0;
+  }
+
+  .panel .link {
+    flex: 1;
+    padding-left: 0.75rem;
+    font-size: calc(clamp(3.25em, 5vw, 4em) * 0.875);
+    line-height: 1.4;
+  }
+
+  /* Reference: the dot moves to the right end of the row (right: 0.4em) and
+     is 0.667em wide. The icon's dot is a sixth of its box, hence 4em; the
+     offset puts the dot's centre where the reference has it. There its box
+     lies on top of the link's right end, so it lets a tap through to the
+     link (in the reference the dot is part of the link). */
+  .panel .dot {
+    right: -0.917em;
+    left: auto;
+    pointer-events: none;
+  }
+
+  .panel .dot svg {
+    width: 4em;
+    height: 4em;
+  }
+
+  /* Reference: the socials sit together at the left, a quarter gap out */
+  .panel .socials {
+    width: calc(100% + var(--gap-padding) / 4);
+    flex-wrap: wrap;
+    gap: 0 0.2em;
+    justify-content: flex-start;
+    margin-left: calc(var(--gap-padding) / -4);
+  }
+
+  /* The reference measures its vh on the visible part of the screen (its
+     --vh); dvh is that, where the browser knows it. Kept in its own block
+     because the build drops a fallback written as a second declaration. */
+  @supports (height: 1dvh) {
+    .panel .inner {
+      padding-top: 15dvh;
+    }
+
+    .panel .list {
+      padding: 3dvh 0;
+    }
+  }
+}
+
+/* Reference: tighter rows on a short screen (max-height 680px) */
+@media (max-width: 601px) and (max-height: 680px) {
+  .panel .link {
+    font-size: 3em;
+    line-height: 1.25;
+  }
+}
