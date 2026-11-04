@@ -59,7 +59,7 @@ export const aboutOptions = {
           'Designed and shipped record merging and duplicate handling for contacts, properties, companies, tasks and notes, with field-level conflict resolution, and led the CSV import overhaul that reduced failed imports.',
           'Design Node.js APIs and MongoDB data models for core features, including authentication and role-based access, and cut the API calls made on app load by caching reference data.',
         ],
-        projects: [],
+        projects: [{ title: 'REHQ', href: '/work/rehq' }],
       },
       {
         company: 'Smart TechOne',

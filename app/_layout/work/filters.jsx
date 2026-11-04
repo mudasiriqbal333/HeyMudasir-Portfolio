@@ -53,26 +53,30 @@ export function WorkFilters({ filter, counts, onFilter, view, onView }) {
       <Container data-once-in>
         <FilterRow>
           <ToggleRow>
-            {workFilters.map(({ key, label }) => (
-              <MagneticButton
-                key={key}
-                type='button'
-                data-filter={key}
-                aria-pressed={filter === key}
-                strength={25}
-                textStrength={15}
-                nowrap
-                whileHover={{ scale: 1 }}
-                className={filterPill}
-                onClick={() => onFilter(key)}
-                {...bindFilter(key)}
-              >
-                {label}
-                {key !== 'all' && counts[key] ? (
-                  <Count data-count>{counts[key]}</Count>
-                ) : null}
-              </MagneticButton>
-            ))}
+            {/* A category no project is filed under has nothing to show, so
+                its pill is left out until one is */}
+            {workFilters
+              .filter(({ key }) => key === 'all' || counts[key])
+              .map(({ key, label }) => (
+                <MagneticButton
+                  key={key}
+                  type='button'
+                  data-filter={key}
+                  aria-pressed={filter === key}
+                  strength={25}
+                  textStrength={15}
+                  nowrap
+                  whileHover={{ scale: 1 }}
+                  className={filterPill}
+                  onClick={() => onFilter(key)}
+                  {...bindFilter(key)}
+                >
+                  {label}
+                  {key !== 'all' && counts[key] ? (
+                    <Count data-count>{counts[key]}</Count>
+                  ) : null}
+                </MagneticButton>
+              ))}
           </ToggleRow>
 
           <GridRow>

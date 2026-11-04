@@ -4,7 +4,7 @@ import { project, video } from '../project.js';
 export default project({
   slug: 'rehq',
   title: 'REHQ',
-  services: 'Full Stack Developer',
+  services: 'React & Node.js Development',
   credits: 'Team REHQ',
   categories: ['development'],
   location: 'Florida, US',
@@ -16,14 +16,16 @@ export default project({
     lead: 'REHQ is a prospecting and deal management platform for commercial real estate brokers and investors.',
     body: [
       'It puts owner records for more than 160 million US properties on one map, then lets a broker call, email, text or mail those owners and follow every deal through a shared pipeline.',
-      'I have worked on it for the past year as a full stack developer in the product team, mostly on the front end.',
+      'I joined its product team in August 2025 as a React developer, working with designers, back end developers and QA in an Agile team, and I also build Node.js APIs and MongoDB data models for its core features.',
     ],
+    //? The owner's own work, from their CV (REHQ under Experience and Projects)
     built: [
-      'Onboarding flow',
-      'Power dialer for calling through owner lists',
-      'Prospecting',
-      'Email and SMS sequences',
-      'Email deliverability',
+      'Twilio call recording, transcription and AI call summaries',
+      'A WhatsApp-style transcript view, with one-click tasks from each summary',
+      'Record merging and duplicate handling, with field-level conflict resolution',
+      'The CSV import overhaul: mapping warnings, validation and error handling',
+      'Fewer API calls on app load, by caching reference data',
+      'Node.js APIs with authentication and role-based access',
     ],
   },
   hero: {
