@@ -4,11 +4,14 @@
 // (public/mudasir-iqbal-cv.pdf). Where the two disagree, LinkedIn, the more
 // recent of the two, wins.
 
-//? The CV the page and the top bar link to
+//? The CV the page and the top bar link to. `label` and `short` open it in
+//? the browser, in a new tab; `download` saves it under `download.name`
+//? (the link under the About page's round button).
 export const cvFile = {
   href: '/mudasir-iqbal-cv.pdf',
-  label: 'Download CV',
+  label: 'View CV',
   short: 'CV',
+  download: { label: 'Download PDF', name: 'Mudasir-Iqbal-CV.pdf' },
 };
 
 export const aboutOptions = {

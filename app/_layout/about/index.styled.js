@@ -82,9 +82,15 @@ export const CvLine = styled.section`
   position: relative;
   z-index: 5;
   overflow: visible;
+
+  /* Room for "Download PDF" under the button before the intro text, which
+     starts right under the line on phones */
+  @media (max-width: 720px) {
+    padding-bottom: 2em;
+  }
 `;
 
-/* The round "Download CV" button sits on the line where the reference has
+/* The round "View CV" button sits on the line where the reference has
    its globe (.digital-ball): centred on the line, half a button in from the
    right. */
 export const CvButton = styled.div`
@@ -95,6 +101,31 @@ export const CvButton = styled.div`
 
   @media (max-width: 1000px) {
     transform: translate(-20%, -50%);
+  }
+`;
+
+/* "Download PDF", centred under the round button. Placed absolutely, so the
+   button stays centred on the line. */
+export const CvDownload = styled.a`
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45em;
+  position: absolute;
+  top: calc(100% + 1.1em);
+  left: 50%;
+  color: var(--color-dark);
+  font-size: 0.95em;
+  white-space: nowrap;
+  transform: translateX(-50%);
+  transition: opacity 0.2s ease;
+
+  &:hover {
+    opacity: 0.6;
+  }
+
+  svg {
+    width: 0.7em;
+    height: 0.7em;
   }
 `;
 
