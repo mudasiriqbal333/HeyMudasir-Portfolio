@@ -1,21 +1,19 @@
 // @ts-check
+import airSeaCargo from './121-air-sea-cargo.js';
+import alvanda from './alvanda.js';
+import careerBuddy from './career-buddy.js';
 import fitmasterAi from './fitmaster-ai.js';
+import guideMoi from './guide-moi.js';
+import jarvis from './jarvis.js';
 import javat365 from './javat365.js';
-import rehq from './rehq.js';
-//? Switched off: projects that came with the previous owner's portfolio,
-//? not the owner's own work. Their files and pictures are kept; to bring one
-//? back, uncomment its import here and its line in the list below.
-// import airSeaCargo from './121-air-sea-cargo.js';
-// import alvanda from './alvanda.js';
-// import careerBuddy from './career-buddy.js';
-// import guideMoi from './guide-moi.js';
-// import jarvis from './jarvis.js';
-// import landscapeAi from './landscape-ai.js';
+import landscapeAi from './landscape-ai.js';
+//? Switched off at the owner's request (their files and pictures are kept)
 // import myFriend from './my-friend.js';
+import rehq from './rehq.js';
 // import simuspace from './simuspace.js';
-// import startir from './startir.js';
-// import tow123 from './tow123.js';
-// import tskr from './tskr.js';
+import startir from './startir.js';
+import tow123 from './tow123.js';
+import tskr from './tskr.js';
 
 /**
  * Every project, one file each. The order of this list is the order on the
@@ -39,15 +37,15 @@ export const projects = [
   rehq,
   javat365,
   fitmasterAi,
-  // tow123,
+  tow123,
   // simuspace,
-  // jarvis,
-  // careerBuddy,
-  // airSeaCargo,
+  jarvis,
+  careerBuddy,
+  airSeaCargo,
   // myFriend,
-  // alvanda,
-  // tskr,
-  // startir,
-  // guideMoi,
-  // landscapeAi,
+  alvanda,
+  tskr,
+  startir,
+  guideMoi,
+  landscapeAi,
 ];
