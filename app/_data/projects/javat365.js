@@ -13,10 +13,8 @@ export default project({
   categories: ['development'],
   //? The company's address on its contact page
   location: 'Atlanta, US',
-  //? Not on the CV or LinkedIn yet: put the year in, then delete `draft`
-  //? so the project goes live
-  year: 'TBC',
-  draft: true,
+  //? Given by the owner (not on the CV or LinkedIn)
+  year: '2024',
   liveUrl: 'https://www.javat365.com/',
   //? The purple of the site's features band
   background: '#5d449b',
