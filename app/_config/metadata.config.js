@@ -17,9 +17,9 @@ export const SITE_URL = (
 
 //? Wording below is placeholder copy: it is the owner's to rewrite.
 const siteName = 'Mudasir Iqbal';
-export const defaultTitle = 'Mudasir Iqbal • Freelance Web and AI Developer';
+export const defaultTitle = 'Mudasir Iqbal • Software Engineer';
 const defaultDescription =
-  'Freelance web and AI developer. Selected projects, case studies and how to get in touch.';
+  'Software engineer building web and AI products. Selected projects, case studies and how to get in touch.';
 
 /** @type {import('next').Metadata} */
 export const rootMetadata = {
@@ -32,7 +32,12 @@ export const rootMetadata = {
   applicationName: siteName,
   generator: 'Next.js',
   referrer: 'origin-when-cross-origin',
-  keywords: ['Web Development', 'AI Development', 'Freelance', 'Portfolio'],
+  keywords: [
+    'Software Engineering',
+    'Web Development',
+    'AI Development',
+    'Portfolio',
+  ],
   authors: [{ name: siteName, url: SITE_URL }],
   creator: siteName,
   publisher: siteName,

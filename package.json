@@ -1,6 +1,6 @@
 {
   "name": "mudasir-iqbal-portfolio",
-  "description": "Freelance web and AI developer. Selected projects, case studies and how to get in touch.",
+  "description": "Software engineer building web and AI products. Selected projects, case studies and how to get in touch.",
   "author": {
     "name": "Mudasir Iqbal",
     "email": "mudasiriqbalmcs@gmail.com",
@@ -9,7 +9,7 @@
   "keywords": [
     "Web Development",
     "AI Development",
-    "Freelance",
+    "Software Engineering",
     "Portfolio"
   ],
   "version": "0.1.0",
